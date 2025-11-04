@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* ========== FONTE GLOBAL ========== */
+body {
+  font-family: 'Lexend', system-ui, -apple-system, sans-serif;
+}
